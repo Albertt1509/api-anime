@@ -1,5 +1,5 @@
 # otakudesu-anime-api
-this is my first time web scraping, all this data API from https://otakudesu.bid/
+api ini dari  web scraping, semua data berasal dari API https://otakudesu.wiki/
 
 # Usage
 1. Clone this repository
